@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwankoravich
-- 👀 I’m interested in data and AI field(NLP and computer vision
+- 👀 I’m interested in data and AI field(NLP and computer vision)
 - 🌱 I’m currently learning MSc Big data science @QMUL
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...https://www.linkedin.com/in/koravich-sangkaew-185038182/
