@@ -1,3 +1,4 @@
+#About me
 - 👋 Hi, I’m @kwankoravich
 - 👀 I’m interested in data and AI field(NLP and computer vision)
 - 🌱 I’m currently learning MSc Big data science @QMUL
@@ -10,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+#Language
 ![Python](https://img.shields.io/badge/<Python>-3776AB?style=for-the-badge&logo=Python&logoColor=white)
