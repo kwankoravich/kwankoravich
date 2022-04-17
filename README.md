@@ -51,3 +51,7 @@ You can click the Preview link to take a look at your changes.
 [![CV](https://img.shields.io/badge/Resume-276DC3?style=for-the-badge&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1HnKwZm6mpt_8kPVwu8ldNS-vWh5GVEQl/view?usp=sharing)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koravich-sangkaew/)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kwankoravich)
+
+## Stats
+[![kwankoravich's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwankoravich&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwankoravich&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
