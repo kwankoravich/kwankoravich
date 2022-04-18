@@ -1,4 +1,3 @@
-# Hi Everyone
 <p align="center">
   <img 
     src="text.gif"
