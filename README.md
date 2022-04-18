@@ -1,7 +1,11 @@
 # Hi Everyone
+<p align="center">
+  <img 
+    src="text.gif"
+  >
+</p>
 
 ## About me
-
 - 🎓 I am a fresh post-graduate Data Science student @QMUL who is fascinated with AI technology such as NLP, Computer Vision, and Cloud Computing. I am also seeking the job in Data scientist, Data Engineer, and ML Engineer.
 - 🖥️ Self-learning in AI cutting edge technology, coding, and sharing the knowledge in the community are the lover in my journey as well as looking for collaboration on github.
 - 🎯 Apart from tech-coding, I am also range from anime-lover, gamer, to chocolate-lover. This is what my fully fuel. Let me know if you are same gangs😉
